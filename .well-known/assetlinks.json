@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.get_login_creds"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.azarlive.android",
+            "sha256_cert_fingerprints": [
+                "CD:A1:B7:7D:AA:54:BD:A7:8E:57:17:33:BE:4C:BC:87:73:53:F6:44:0E:4E:31:57:16:6A:0F:1B:B2:CE:6D:D3"
+            ]
+        }
+    }
+]
